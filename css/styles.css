@@ -1,0 +1,33 @@
+html *{
+	font-family: "Helvetica";
+}
+
+header {
+	border: 5px solid #636b70;
+	display: flex;
+	justify-content: space-between;
+	color: #000066;
+	background-color: #636b70;
+}
+
+.title {
+	text-align: center;
+	align-self: center;
+}
+
+.logo{
+	margin: 0px;
+	align-self: flex-end;
+}
+
+.mainContainer{
+	max-width: 750px;
+  	margin: auto;
+}
+
+.line{
+	padding: 0px;
+	margin: 0px
+	width: 200em;
+	border-bottom: 1px solid #636b70;
+}
